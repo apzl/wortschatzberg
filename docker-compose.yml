@@ -1,0 +1,10 @@
+name: wortschatzberg
+
+services:
+  wortschatzberg:
+    build:
+      context: .
+    container_name: wortschatzberg
+    ports:
+      - "127.0.0.1:8000:80"
+    restart: unless-stopped

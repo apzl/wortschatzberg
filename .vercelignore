@@ -1,0 +1,14 @@
+.git
+.agents
+.codex
+.aws
+.vercel
+__pycache__
+tests
+scripts
+docs
+README.md
+Dockerfile
+docker-compose.yml
+nginx.conf
+install-docker-and-run.sh

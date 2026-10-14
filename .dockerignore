@@ -1,0 +1,12 @@
+.git
+.agents
+.codex
+__pycache__
+*.pyc
+tests
+scripts
+docs
+README.md
+.vercel
+.vercelignore
+vercel.json
