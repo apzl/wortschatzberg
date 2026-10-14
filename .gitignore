@@ -2,3 +2,4 @@
 .vercel
 .cache/
 **/__pycache__/
+.env*
